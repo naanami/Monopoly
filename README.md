@@ -3,31 +3,6 @@ Group members: Narine Vardanyan, Narek Khachikyan, Karine Asoyan
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
