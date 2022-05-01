@@ -1,5 +1,5 @@
 # Set
-Group members: Narine Vardanyan, Narek Khachikyan, Karine Asoyan
+//Group members: Narine Vardanyan, Narek Khachikyan, Karine Asoyan
 
 
 
@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
-
 
 public class SetGame {
     private static Random random = new Random(); // needs to be initialized for the tests
@@ -44,4 +43,3 @@ public class SetGame {
             return number + ":" + symbol + ":" + shading + ":" + colour; // + " - " + sortOrder;
         }
     }
-
